@@ -6,8 +6,8 @@ Least Significant Bit (LSB) steganography.
 """
 
 __version__ = "1.0.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__author__ = "Biswareet Panda"
+__email__ = "biswa.gunu2003@gmail.com"
 
 from .steganography import LSBSteganography
 
